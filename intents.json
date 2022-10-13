@@ -1,0 +1,281 @@
+{
+    "intents": [
+        {
+            "tag": "Welcoming",
+            "patterns": [
+                "Hi",
+                "Namaste",
+                "How are you?",
+                "Is anyone there?",
+                "Hey",
+                "Hola",
+                "Hello",
+                "Good day"
+            ],
+            "responses": [
+                "Hello",
+                "Good to see you again",
+                "Hi there, how can I help?"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "Bye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye",
+                "Nice chatting to you, bye",
+                "Till next time"
+            ],
+            "responses": [
+                "See you",
+                "Goodbye",
+                "Have a nice day",
+                "Bye! Come back again soon.",
+                "Bye",
+                "See you Again"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful",
+                "Awesome, thanks",
+                "Thanks for helping me"
+            ],
+            "responses": [
+                "Happy to help!",
+                "Any time!",
+                "My pleasure",
+                "It's my job to work for you"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "College_info",
+            "patterns": [
+                "Tell me about college",
+                "What is MHSSCOE",
+                "Give me some information about M.H.Saboo Siddik College of Engineering",
+                "MHSSCOE"
+            ],
+            "responses": [
+                "M. H. Saboo Siddik (commonly known as MHSS or Saboo Siddik or Saboo) is an engineering college located in Byculla at Saboo Siddik Polytechnic Road, Mumbai, India, affiliated with the University of Mumbai.It is an 'A' Grade institution, and is accredited by AICTE."
+            ],
+            "context": []
+        },
+        {
+            "tag": "College_info2",
+            "patterns": [
+                "Location of College",
+                "Where is MHSSCOE located",
+                "where is college located",
+                "where can we find the college"
+            ],
+            "responses": [
+                "The college address is: 8, MH Saboo Siddik Polytechnic Rd, Police Colony, Nagpada, Byculla, Mumbai, Maharashtra 400008"
+            ],
+            "context": []
+        },
+        {
+            "tag": "Infrastructure",
+            "patterns": [
+                "What kind of Infrastructure are present in the college",
+                "what are the infrastructure facilities",
+                "Tell me about college Infrastructure"
+            ],
+            "responses": [
+                "The college building accommodates workshops, laboratories, classrooms, lecture halls, drawing halls, student's common room, seminar hall, library, reading-rooms, offices. The library of the College is housed in a separate building and it has reference sections and reading-rooms for students and staff."
+            ],
+            "context": []
+        },
+        {
+            "tag": "Departments1",
+            "patterns": [
+                "How many departments are there in the college",
+                "In total there are how many departments",
+                "Tell me about numbers of departments"
+            ],
+            "responses": [
+                "In total there are total 8 departments",
+                "In M.H. Saboo Siddik College of Engineering there are 8 Departments"
+            ],
+            "context": []
+        },
+        {
+            "tag": "Departments2",
+            "patterns": [
+                "Which departments are there in the college?",
+                "Can you tell me the names of the department",
+                "Tell me department names"
+            ],
+            "responses": [
+                "The 8 departments of MHSSCOE are: 1.Automobile Engineering \n 2.Civil Engineering \n 3.Computer Engineering \n 4.Computer Science and Engineering [Artificial Intelligence & Machine Learning] \n 5.Computer Science and Engineering [IoT & Cyber Security, Blockchain]\n 6.Electronic and Telecommunication Engineering\n 7.Information Technology\n 8.Mechanical Engineering "
+            ],
+            "context": []
+        },
+        {
+            "tag": "Admission1",
+            "patterns": [
+                "Is mhsscoe accepting applications for admission in 2022?",
+                "Is admission open in the college",
+                "Which streams are free for admissions"
+            ],
+            "responses": [
+                "Yes the admission are open for the year 2022-2023",
+                "It's my please to announce that the admissions for the effective year 2022-2023 are open",
+                "Yes, the admissions for the first year are open for the 7 departments except Automobile Engineering(Direct Second year only)"
+            ],
+            "context": []
+        },
+        {
+            "tag": "Admission2",
+            "patterns": [
+                "what qualifications must a student meet in order to be admitted to the first year of college?",
+                "What are Admissions criteria",
+                "How can i get enrolled in the college"
+            ],
+            "responses": [
+                "You should have taken the MHT-CET or JEE test in addition to finishing your HSC in the science stream.\n For any further admission related query you can contact Admission Team: \n Dr .G. Kame Chief Admission Officer \n Dr. Uma Kale: 9987914106 \n Dr. Ibrahim Shaikh: 9892128099 \n Prof. Anand Bali: 9322272338 \n Prof. Shrinidhi Gindi: 9820135634"
+            ],
+            "context": []
+        },
+        {
+            "tag": "Principal",
+            "patterns": [
+                "Who is the Principal of the college",
+                "MHSSCOE principal",
+                "college principal"
+            ],
+            "responses": [
+                "Dr. Ganesh Kame is the Principal of the College"
+            ],
+            "context": []
+        },
+        {
+            "tag": "Vision",
+            "patterns": [
+                "What is the vision of the collge",
+                "College vision",
+                "MHSSCOE vision"
+            ],
+            "responses": [
+                "To bring out the whole Muslim Community from the quagmire of poverty and educational backwardness and encourage, enlighten and prepare all its members to be useful citizens who will contribute to make a prosperous, healthy and strong nation and to promote national integration by giving equal opportunity to all communities for their promotion and progress."
+            ],
+            "context": []
+        },
+        {
+            "tag": "Automobile",
+            "patterns": [
+                "Tell me about automobile department",
+                "Automobile Department",
+                "What is Automobile Department",
+                "MHSSCOE Automobile"
+            ],
+            "responses": [
+                "Automobile engineering is one of the oldest departments of MHSSCE and also in the Mumbai University established in 1985 with the aim of providing industry ready automobile engineers. In present time automotive industries are considered to be the back bone of manufacturing sector in India, which is also evident by India’ s aim to become hub of manufacturing of electric vehicles. In automobile engineering program the students learn from fundamental to advanced concept and their implementation in solving real world problem through quality and research based projects.\n Department of Automobile engineering is having well equipped laboratories where students implement the concepts they learned. We are having knowledgeable, dedicated and focused faculty members as well as lab assistant. In order to keep students updated with latest trends in technology, department organizes seminar, workshops for hands on training from industry expert. \n Department is one of the most active members of SAEINDIA in western India section since 2002.The collegiate club organizes various activities under the banner of SAEINDIA for the enhancement of students knowledge . Students participate in various national and international competitions such as BAJA, FSAE-SUPRA, and EBIKE etc"
+            ],
+            "context": []
+        },
+        {
+            "tag": "ComputerEng",
+            "patterns": [
+                "Tell me about Computer department",
+                "computer Department",
+                "What is Computer Department",
+                "MHSSCOE Computer Department"
+            ],
+            "responses": [
+                "The Computer Engineering Department of M. H. Saboo Siddik College of Engineering also plays its role in imparting education to brilliant minds who arrive with the promise of potential and leave as professionals ready to step out and change the world. The department houses teaching facilities and dedicated faculty that are well versed in preparing students both theoretically and practically in various streams and facets of Computer Engineering and Technology. \n Computer Department believe in wholesome grooming of the students by organizing technical workshops and competitive events such as Hackathons, Seminars and Lectures from eminent voices in the industry. To bridge the industry interface with academia the CSI student’s chapter of the department actively hosts the above events. Students not only participate in these events but also manage them thereby exposing them to teamwork and opportunities to lead. Department Annual TechFest AMBROSIA, allows students from our college to coalesce with students from other institutes and cultivates a community mindset. \n The placement record of the department has been consistently high, and we are proud to achieve growth in number of students placed year after year. Most of our alumni now work in reputed in organizations like Microsoft, Uniqlo, TCS, INFOSYS, Accenture, Capgemini etc."
+            ],
+            "context": []
+        },
+        {
+            "tag": "Civil",
+            "patterns": [
+                "Tell me about Civil department",
+                "Civil Department",
+                "What is Civil Department",
+                "MHSSCOE Civil Department"
+            ],
+            "responses": [
+                "Department of Construction Engineering was established in 1984 which was later converted to Department of Civil Engineering in the year 2001. With its twelve versatile full time permanent faculties, the department provides high quality teaching and drive the mind of students towards higher studies and research. The department strives to make students identify the practical solutions to the current industrial problems. The department faculties are not only instructors and guides to the students; they also act as mentors and counselors to the students. \n The department’s one point perspective is development of ethical and sustainable world through advancement in technology. With this goal the entire department put efforts for quality education so as to provide technical solutions for industrial challenges. The department tries to develop technical and leadership skills and entrepreneur aspirations among students so as to create jobs in our society keeping moral and ethical values in mind. \n The department has faculties who are advisor on the boards for various interviews conducted by the government for filling the post. The department extends help to university at syllabus revision proposals and drafting. The faculties are external referees for Master level Project and Phd Thesis evaluations. They are auditors for Question Paper Setting Committee at various deemed university. They are expert speakers at various national and international conferences and have provided expert lectures to various institutes."
+            ],
+            "context": []
+        },
+        {
+            "tag": "Mechanical",
+            "patterns": [
+                "Tell me about Mechanical department",
+                "Mechanical Department",
+                "What is Mechanical Department",
+                "MHSSCOE Mechanical Department"
+            ],
+            "responses": [
+                "The department of mechanical engineering has distinguished legacy of achievements in technological innovation, and continuously striving to improve the same. Our students as a technocrat are present all over the world and adding the prestige to the name of the department and the institute. \n The department has a team of qualified and experienced faculty members to provide quality technical education and to imbibe creative approach in the students, required for technological developments. The core values of the department help the students to develop the professional approach to make them competent at global level."
+            ],
+            "context": []
+        },
+        {
+            "tag": "EXTC",
+            "patterns": [
+                "Tell me about Electronic and Telecommunication Department",
+                "Electronic and Telecommunication Department",
+                "What is Electronic and Telecommunication Department",
+                "MHSSCOE Electronic and Telecommunication Department"
+            ],
+            "responses": [
+                "Department of Electronics and Telecommunication Engineering was established in the year 2008 with an intake of 60 students with the objective of imparting the knowledge and developing practical skills in various areas of Electronics and Telecommunication Engineering . Department has clear vision to become centre of excellence in the various domain of Telecommunication Engineering. The department motivates its students to participate in co-curricular and extra-curricular activities essential for development and nurturing of team spirit and developing organizational skills. The department has experts and well trained human resources and well equipped laboratories to impart domain specific knowledge"
+            ],
+            "context": []
+        },
+        {
+            "tag": "IT",
+            "patterns": [
+                "Tell me about Information Technology Department",
+                "Information Technology Department",
+                "What is Information Technology Department",
+                "MHSSCOE Information Technology Department"
+            ],
+            "responses": [
+                "IT is the best department of MHSSCE as it has the highest number of placement records."
+            ],
+            "context": []
+        },
+        {
+            "tag": "Founder",
+            "patterns": [
+                "Tell me about Founder",
+                "Who is college Founder",
+                "Who founded the college",
+                "MHSSCOE Founder"
+            ],
+            "responses": [
+                "The Mohammed Haji Saboo Siddik Institute (A Muslim Minority Institution) owes its existence to the munificence of late Mohammed, son of Haji Saboo Siddik, who bequeathed a large sum of money for establishing, conducting and managing this Institution for imparting Vocational, Technical and Industrial training and education. The value of the assets, so bequeathed, exceeded Rupees Three Crore at the time of donation. \n The Institution is managed and administrated by the Anjuman-i-Islam as the sole trustee, appointed by the Bombay High Court's decree and scheme framed and sanctioned thereunder. \n The very well laid out college building accommodates workshops, laboratories, classrooms, lecture halls, drawing halls, students' common room, seminar hall, library, reading-rooms, offices, etc. with modern facilities. The College is accommodated in an exclusively newly-constructed spacious ground plus five floors building. The library of the College is housed in a separate newly-constructed building and is furnished with reference section and reading-rooms for students and staff. A very sophisticated Seminar Hall furnished with the most modern equipment was inaugurated by Dr. Raja Ramanna, an eminent scientist of our country, on the annual day celebrations on 9th April, 2001. A spacious and well-furnished cafeteria is also operative in the campus."
+            ],
+            "context": []
+        },
+        {
+            "tag": "Contact",
+            "patterns": [
+                "What is college Phone number and Email ID",
+                "How can we contact colleg",
+                "Can you tell me the Contact number and Email of the college"
+            ],
+            "responses": [
+                "You can call at: +91 22 23012922 \n Email us at: mhssce@yahoo.in or aimhssce@gmail.com"
+            ],
+            "context": []
+        }
+    ]
+}
